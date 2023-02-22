@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phvermeer
+- 👋 Hi, I’m Peter Vermeer
 - 👀 I’m interested in beachvolleybal, walking in de mountains (
 - 🌱 I’m currently learning Android, C#, TypeScript and ConnectIQ (Garmin Watches)
 - 💞️ I’m looking to collaborate on ...
